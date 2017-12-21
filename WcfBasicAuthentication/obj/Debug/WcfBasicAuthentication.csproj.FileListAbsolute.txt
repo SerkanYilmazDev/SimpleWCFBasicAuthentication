@@ -1,0 +1,7 @@
+C:\Users\serkan.yilmaz1\Documents\Visual Studio 2017\Projects\WcfBasicAuthentication\WcfBasicAuthentication\WcfBasicAuthentication\bin\WcfBasicAuthentication.dll.config
+C:\Users\serkan.yilmaz1\Documents\Visual Studio 2017\Projects\WcfBasicAuthentication\WcfBasicAuthentication\WcfBasicAuthentication\bin\WcfBasicAuthentication.dll
+C:\Users\serkan.yilmaz1\Documents\Visual Studio 2017\Projects\WcfBasicAuthentication\WcfBasicAuthentication\WcfBasicAuthentication\bin\WcfBasicAuthentication.pdb
+C:\Users\serkan.yilmaz1\Documents\Visual Studio 2017\Projects\WcfBasicAuthentication\WcfBasicAuthentication\WcfBasicAuthentication\obj\Debug\WcfBasicAuthentication.csprojResolveAssemblyReference.cache
+C:\Users\serkan.yilmaz1\Documents\Visual Studio 2017\Projects\WcfBasicAuthentication\WcfBasicAuthentication\WcfBasicAuthentication\obj\Debug\WcfBasicAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\serkan.yilmaz1\Documents\Visual Studio 2017\Projects\WcfBasicAuthentication\WcfBasicAuthentication\WcfBasicAuthentication\obj\Debug\WcfBasicAuthentication.dll
+C:\Users\serkan.yilmaz1\Documents\Visual Studio 2017\Projects\WcfBasicAuthentication\WcfBasicAuthentication\WcfBasicAuthentication\obj\Debug\WcfBasicAuthentication.pdb
